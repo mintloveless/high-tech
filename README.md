@@ -10,7 +10,8 @@
 - 做出PRD及至少有2份成功交互且交互意义相关连（以超连结或交互达成）的交互式界面（其中至少1份含地图）的产品原型或完整产品
 - 使用相关Pyecharts 及/或Plotly模块等等的整合外观样式及数据科学代码实践，以及外观样式的前端CSS 及Javascript库调用实践（如Bootstrap）
 
-## [交互可视化展示](http://nfunm063.gitee.io/high-tech)
+## 代码
+[交互可视化展示](http://nfunm063.gitee.io/high-tech)
 
 ## pythonanywhere
 [链接入口](http://lxh.pythonanywhere.com/)
