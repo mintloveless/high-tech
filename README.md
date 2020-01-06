@@ -11,7 +11,7 @@
 - 使用相关Pyecharts 及/或Plotly模块等等的整合外观样式及数据科学代码实践，以及外观样式的前端CSS 及Javascript库调用实践（如Bootstrap）
 
 ## 代码
-[交互可视化展示](http://nfunm063.gitee.io/high-tech)
+[交互可视化展示](https://nfunm063.gitee.io/high-tech/index)
 
 ## pythonanywhere
 [链接入口](http://lxh.pythonanywhere.com/)
